@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
 import React from 'react';
-import { shallow } from '../enzyme';
+import { shallow } from '../setupTests';
 
 import App from './App';
 
