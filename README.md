@@ -1,6 +1,6 @@
-# Project Title
+# ReactJS Boilerplate
 
-Just a simple and useful boilerplate for my personal works and study. Use it well, it is free to use and modify.
+Just a simple and useful boilerplate for my personal works and study. Use it well, it is free to use and modify.:pencil:
 
 
 ## Built With
