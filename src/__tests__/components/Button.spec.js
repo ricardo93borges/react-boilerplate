@@ -1,9 +1,9 @@
 import React from 'react';
 import {shallow} from 'enzyme';
-import Main from './index';
+import Button from '../../components/Button';
 
-describe('Main test', () => {
+describe('Component Button test', () => {
   it('should render without crashing', () => {
-    shallow(<Main />);
+    shallow(<Button />);
   });
 });
