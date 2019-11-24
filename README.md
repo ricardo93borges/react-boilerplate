@@ -2,12 +2,11 @@
 
 Just a simple and useful boilerplate for my personal works and study. Use it well, it is free to use and modify.:pencil:
 
-
 ## Built With
 
-* [Create React App](https://github.com/facebook/create-react-app) - Bootstrapper for ReactJS
-* [Enzyme](https://airbnb.io/enzyme/) - JavaScript Testing utility for React
-* [SASS](https://www.npmjs.com/package/node-sass) - It allows you to natively compile .scss files to css 
+- [Create React App](https://github.com/facebook/create-react-app) - Bootstrapper for ReactJS
+- [Enzyme](https://airbnb.io/enzyme/) - JavaScript Testing utility for React
+- [SASS](https://www.npmjs.com/package/node-sass) - It allows you to natively compile .scss files to css
 
 ## Available Scripts
 
@@ -36,7 +35,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject` 
+### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -75,4 +74,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './style.scss';
+import './styles.scss';
 
 export default function Main() {
   return (
@@ -8,9 +8,11 @@ export default function Main() {
       <div className="presentation">
         <h1>Welcome to ReactJS Boilerplate</h1>
         <p>
-          Just a simple and useful boilerplate for my personal works and study.
-          Use it well, it is free to use and modify
-          <span role="img" aria-label="smileface">😉</span>
+          Just a simple and useful boilerplate for my personal works and study. Use it
+          well, it is free to use and modify
+          <span role="img" aria-label="smileface">
+            😉
+          </span>
         </p>
       </div>
     </div>
